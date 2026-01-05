@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.log
+logs/
+docs/
+.vscode/
+.idea/
+.env
+DocAUG.spec

@@ -1,0 +1,4 @@
+opencv-python
+numpy
+# openvino # access via system path or separate install usually, but listing for reference
+# torch # access via system path or separate install usually
